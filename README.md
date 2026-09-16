@@ -2,9 +2,9 @@
 
 **Emile Naude** · Lleverage · ORCID [0009-0006-4950-7621](https://orcid.org/0009-0006-4950-7621) · naudemile@gmail.com
 
-Working paper, **version 1.0, 15 September 2026**. Comments welcome — open an issue or email.
+Working paper, **version 1.1, 16 September 2026** (v1.0: 15 September 2026). Comments welcome — open an issue or email.
 
-📄 **[Read the paper (PDF)](paper/naude_2026_nested_races_v1.0.pdf)**
+📄 **[Read the paper (PDF)](paper/naude_2026_nested_races_v1.1.pdf)** · 🌐 [Landing page](https://emilenaude91.github.io/nested-races/)
 
 ## Abstract
 
@@ -24,7 +24,7 @@ The paper is a formal, two-level game-theoretic model of the race to build advan
 
 | Path | Contents |
 |---|---|
-| `paper/naude_2026_nested_races_v1.0.pdf` | The paper (42 pages) |
+| `paper/naude_2026_nested_races_v1.1.pdf` | The paper (44 pages) |
 | `paper/source/` | LaTeX source and figures |
 | `replication/` | Python code reproducing every table and figure; see `replication/README.md` |
 | `CHANGELOG.md` | Version history |
@@ -40,13 +40,14 @@ python3 figs4.py       # figures
 python3 lead4c.py      # Appendix C: lead as a stock (committed regime)
 python3 lead5c.py      # Appendix C: period-2 regime re-choice (time consistency)
 python3 asym.py        # Appendix E: asymmetric enforcement
+python3 edge.py        # asymmetric capability (referenced in Section 7.6, not reported)
 ```
 
 Each script prints the numbers reported in the paper; `replication/README.md` maps every script to the table or figure it produces. The identity D_R − D_A = (W/2 + Λℓ)Δ is checked to machine precision at every computed point.
 
 ## How to cite
 
-Naude, E. (2026). *Nested Races: Laboratory Enforcement and the Strategic Form of Interstate Restraint in the AGI Competition*. Working paper, version 1.0, 15 September 2026. https://github.com/emilenaude91/nested-races
+Naude, E. (2026). *Nested Races: Laboratory Enforcement and the Strategic Form of Interstate Restraint in the AGI Competition*. Working paper, version 1.1, 16 September 2026. https://github.com/emilenaude91/nested-races
 
 A `CITATION.cff` file is included; GitHub's "Cite this repository" button uses it.
 
