@@ -24,6 +24,6 @@
     "nested games"
   ],
   "language": "eng",
-  "version": "1.0",
-  "notes": "JEL codes: C72, D74, D62, F51, L51, O33. The paper (PDF) is at paper/naude_2026_nested_races_v1.0.pdf; the LaTeX source in paper/source/; Python replication code in replication/."
+  "version": "1.1",
+  "notes": "JEL codes: C72, D74, D62, F51, L51, O33. The paper (PDF) is at paper/naude_2026_nested_races_v1.1.pdf; the LaTeX source in paper/source/; Python replication code in replication/."
 }
