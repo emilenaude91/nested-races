@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: report
+title: "Nested Races: Laboratory Enforcement and the Strategic Form of Interstate Restraint in the AGI Competition"
+authors:
+  - family-names: Naude
+    given-names: Emile
+    orcid: "https://orcid.org/0009-0006-4950-7621"
+    affiliation: Lleverage
+version: "1.0"
+date-released: 2026-09-15
+keywords:
+  - artificial intelligence governance
+  - two-level games
+  - arms control
+  - verification
+  - contests
+  - risk aggregation
+  - nested games
+license: CC-BY-4.0
+url: "https://github.com/emilenaude91/nested-races"
